@@ -1,0 +1,7 @@
+{
+  "token": "YOUR_ACCOUNT_TOKEN",
+  "clear_enabled": false,
+  "clear_interval": 60,
+  "sleep_interval": 1,
+  "random": true
+}
